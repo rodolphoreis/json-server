@@ -1,6 +1,6 @@
 # React Client Table App
 
-Welcome to the React Client Table App! 🚀 This is a simple yet powerful React application that brings your client data to life in a visually appealing table format.
+Welcome to the React Client Table App! This is a simple yet powerful React application that brings your client data to life in a visually appealing table format.
 
 ## Overview
 
