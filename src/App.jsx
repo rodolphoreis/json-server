@@ -20,7 +20,7 @@ function App() {
       if (Array.isArray(data)) {
         setClients(data);
       } else if (typeof data === "object" && data.id) {
-        // Tratar caso a resposta seja um objeto
+        
         setClients([data]);
       } else {
         console.error(
@@ -36,7 +36,7 @@ function App() {
   };
 
   const handleCadastro = async () => {
-    // Verificar se os campos obrigatórios estão preenchidos
+   
     if (!formData.nome || !formData.email || !formData.senha) {
       console.error("Preencha todos os campos obrigatórios.");
       return;
@@ -60,7 +60,7 @@ function App() {
       if (Array.isArray(data)) {
         setClients([...clients, ...data]);
       } else if (typeof data === "object" && data.id) {
-        // Tratar caso a resposta seja um objeto
+        
         setClients([...clients, data]);
       } else {
         console.error(
