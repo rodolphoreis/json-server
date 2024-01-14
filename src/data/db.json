@@ -20,20 +20,6 @@
       "email": "charlie@email.com",
       "senha": 234567,
       "genero": "Masculino"
-    },
-    {
-      "id": 4,
-      "nome": "Diana Filipa",
-      "email": "diana@live.com",
-      "senha": 789012,
-      "genero": "Feminino"
-    },
-    {
-      "id": 5,
-      "nome": "Nuno Miguel",
-      "email": "miguel@hotmail.com",
-      "senha": 345678,
-      "genero": "Masculino"
     }
   ]
 }
