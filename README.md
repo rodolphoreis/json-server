@@ -19,5 +19,5 @@ Para executar este aplicativo em sua máquina local, siga estas etapas simples:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/rodolphoreis/json-server
+   git clone https://github.com/rodolphoreis/json-server.git
    cd json-server
