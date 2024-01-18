@@ -1,26 +1,23 @@
 # React Client Table App
 
-Welcome to the React Client Table App! This is a simple yet powerful React application that brings your client data to life in a visually appealing table format.
+Bem-vindo ao React Client Table App! Este é um aplicativo React simples, porém poderoso, que dá vida aos dados do seu cliente em um formato de tabela visualmente atraente.
 
-## Overview
+## Visão Geral
 
-The primary goal of this application is to showcase client information retrieved from a local server. The table displays essential details such as name, email, and password. A touch of flair has been added by highlighting the names of male clients in a distinctive blue color, making the user experience even more engaging.
+O principal objetivo deste aplicativo é mostrar informações do cliente recuperadas de um servidor local. A tabela exibe detalhes essenciais, como nome, e-mail e senha. Um toque de estilo foi adicionado ao destacar os nomes dos clientes masculinos com uma cor verde distintiva, tornando a experiência do usuário ainda mais envolvente.
 
-## Technologies Used
+## Tecnologias Utilizadas
 
-- **React**: The heart and soul of our application. React makes it easy to create interactive user interfaces.
+- **React**: O coração e a alma do nosso aplicativo. React facilita a criação de interfaces de usuário interativas.
+- **CSS**: O estilo importa! O CSS é utilizado para garantir um design visualmente agradável e responsivo.
+- **Fetch API**: Alavancamos a Fetch API para recuperar dados de forma eficiente de um servidor local.
+- **JSON Server**: O lar aconchegante dos seus dados. JSON Server é usado para fornecer uma API REST simulada, servindo dados a partir de um arquivo db.json.
 
-- **CSS**: Styling matters! CSS is utilized to ensure a visually pleasing and responsive design.
+## Como Começar
 
-- **Fetch API**: We leverage the Fetch API to efficiently retrieve data from a local server.
+Para executar este aplicativo em sua máquina local, siga estas etapas simples:
 
-- **JSON Server**: Your data's cozy home. JSON Server is used to provide a mock REST API by serving data from a `db.json` file.
-
-## Getting Started
-
-To run this app on your local machine, follow these simple steps:
-
-1. **Clone the repository:**
+1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/rodolphoreis/json-server.git
+   git clone https://github.com/rodolphoreis/json-server
    cd json-server
