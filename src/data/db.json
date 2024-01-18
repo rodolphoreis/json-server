@@ -20,6 +20,20 @@
       "email": "charlie@email.com",
       "senha": 234567,
       "genero": "Masculino"
+    },
+    {
+      "id": "bd5e",
+      "nome": "Teste",
+      "email": "teste@teste.com",
+      "senha": "tezte123",
+      "genero": "Feminino"
+    },
+    {
+      "id": "d03c",
+      "nome": "Rodolpho Reis",
+      "email": "rodolphoreis@teste.com",
+      "senha": "12345gsdgs",
+      "genero": "Masculino"
     }
   ]
 }
